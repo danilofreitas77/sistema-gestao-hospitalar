@@ -26,6 +26,8 @@ Solução web desenvolvida para facilitar o gerenciamento de exames médicos em 
 ## 📸 Imagens do projeto
 
 <p align="center">
+  <img src="screenshots\Captura de tela 2025-03-26 183905.png" width="600" alt="Visual do sistema">
+  <img src="screenshots\Captura de tela 2025-03-26 183919.png">
   <img src="screenshots\Captura de tela 2025-03-26 183954.png" width="600" alt="Visual do sistema">
 </p>
 
